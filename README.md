@@ -1,4 +1,7 @@
 ## ad-hoc-Analysis-SQL
+
+# Atliq Hardwares, a fictional company, is a major computer hardware maker in India and abroad. Yet, they lack quick insights for smart decisions. So, a SQL challenge is on the horizon to fill this data gap.
+
 ## 1.  Provide the list of markets in which customer  "Atliq  Exclusive"  operates its 
 ##  business in the  APAC  region.
 
