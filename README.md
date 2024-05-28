@@ -18,4 +18,10 @@ order by market
  ## 3. Provide a report with all the unique product counts for each  segment  and 
 ## sort them in descending order of product counts. The final output contains  2 fields,  segment  ,product_count 
 
+
+![Screenshot 2024-05-28 181259](https://github.com/Rajeswari-kotha/ad-hoc-Analysis-SQL-/assets/162559903/ae7433cc-0d23-4ec0-965e-8d975676829e)
+
+## 4.Follow-up: Which segment had the most increase in unique products in 
+## 2021 vs 2020? The final output contains these fields, segment ,product_count_2020 ,product_count_2021 ,difference 
+
  
