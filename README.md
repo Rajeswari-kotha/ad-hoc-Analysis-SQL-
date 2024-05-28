@@ -8,4 +8,4 @@ where region="APAC"
 AND customer="Atliq Exclusive"
 order by market
 
-![](C:\Users\91807\Pictures\Screenshots\Screenshot 2024-05-28 180109.png)
+![Screenshot 2024-05-28 180109](https://github.com/Rajeswari-kotha/ad-hoc-Analysis-SQL-/assets/162559903/835b79ea-574e-4b6e-af8a-da878ba976de)
