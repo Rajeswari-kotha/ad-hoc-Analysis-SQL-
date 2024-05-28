@@ -1,4 +1,4 @@
-![image](https://github.com/Rajeswari-kotha/ad-hoc-Analysis-SQL-/assets/162559903/1bcc8d50-b953-46e8-af99-b44e4a816def)# ad-hoc-Analysis-SQL
+## ad-hoc-Analysis-SQL
 ## 1.  Provide the list of markets in which customer  "Atliq  Exclusive"  operates its 
 ##  business in the  APAC  region.
 
