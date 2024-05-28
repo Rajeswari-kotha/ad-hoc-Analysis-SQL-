@@ -13,4 +13,6 @@ order by market
 ## 2.  What is the percentage of unique product increase in 2021 vs. 2020?
  ## The  final output contains these fields, unique_products_2020 ,unique_products_2021 ,percentage_chg 
 
+![Screenshot 2024-05-28 180949](https://github.com/Rajeswari-kotha/ad-hoc-Analysis-SQL-/assets/162559903/29f7d90f-adfc-4ad9-928e-c38166ac8626)
+
  
